@@ -10,9 +10,3 @@ I'm a **Machine Learning Engineer** with a passion for building intelligent syst
 ## 📫 How to reach me:
 - ✉️ Email: [aliabdelmonam37@gmail.com](mailto:aliabdelmonam37@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/ali-abdelmenam](https://www.linkedin.com/in/ali-abdelmenam-750484218/)
-
-Feel free to reach out if you have any questions or want to collaborate on something exciting!
-
----
-
-⭐️ From [Ali Abdelmenam Mohamed](https://github.com/ali-abdelmenam)
