@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, I'm Ali Abdelmenam Mohamed!
 
-<!--
-**aliabdelmonam/aliabdelmonam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Machine Learning Engineer** with a passion for building intelligent systems, data science, and solving complex problems with AI. I'm enthusiastic about exploring the latest advancements in machine learning, AI.
 
-Here are some ideas to get you started:
+## 💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on projects related to **Computer Vision**, **data science**, and **AI**.
+- 🤝 I’m open to collaboration on **ML projects**, **open-source contributions**, and **research in AI**.
+
+## 📫 How to reach me:
+- ✉️ Email: [aliabdelmonam37@gmail.com](mailto:aliabdelmonam37@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/ali-abdelmenam](https://www.linkedin.com/in/ali-abdelmenam-750484218/)
+
+Feel free to reach out if you have any questions or want to collaborate on something exciting!
+
+---
+
+⭐️ From [Ali Abdelmenam Mohamed](https://github.com/ali-abdelmenam)
