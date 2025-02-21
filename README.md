@@ -21,6 +21,11 @@ I'm a **AI Engineer** with a passion for building intelligent systems, data scie
   <a href="https://www.kaggle.com/aliabdelmenam" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Python" style="width: 40px; height: 30px; max-width: 100%;">
   </a>
+<!-- Gmail -->
+  <a href="mailto:aliabdelmonam37@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Python" style="width: 40px; height: 30px; max-width: 100%;">
+  </a>
+  
 </div>
 
 ### Languages and Tools:
