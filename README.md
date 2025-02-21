@@ -9,10 +9,20 @@ I'm a **AI Engineer** with a passion for building intelligent systems, data scie
 - 🌱 I’m currently learning **HuggingFace**, and **Transformers**.
 
 ### 📫 How to reach me:
-- **Email**: [aliabdelmonam37@gmail.com](mailto:aliabdelmonam37@gmail.com)
+<!-- - **Email**: [aliabdelmonam37@gmail.com](mailto:aliabdelmonam37@gmail.com)
 - **LinkedIn**: [linkedin](https://www.linkedin.com/in/ali-abdelmenam-750484218/)
-- **Kaggle account**: [kaggle](https://www.kaggle.com/aliabdelmenam)
-- **My Resume**: [Resume](https://drive.google.com/file/d/1-n036FJu5Vm9uNUq-HIWpZbLaiZqXrS5/view?usp=drive_link)
+- **Kaggle account**: [kaggle](https://www.kaggle.com/aliabdelmenam) -->
+ <div>
+  <!-- Linkedin -->
+  <a href="https://www.linkedin.com/in/ali-abdelmenam-750484218/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Python" style="width: 40px; height: 30px; max-width: 100%;">
+  </a>
+ <!-- Kaggle -->
+  <a href="https://www.kaggle.com/aliabdelmenam" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Python" style="width: 40px; height: 30px; max-width: 100%;">
+  </a>
+</div>
+
 ### Languages and Tools:
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <!-- Python -->
