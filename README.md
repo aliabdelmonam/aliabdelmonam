@@ -4,7 +4,7 @@ I'm a **AI Engineer** with a passion for building intelligent systems, data scie
 
 ### 💻 About Me
 
-- 🔭 I’m currently working on projects related to **Computer Vision**, **data science**, and **AI**.
+- 🔭 I’m currently working on projects related to **NLP**, **data science**, and **AI**.
 - 🤝 I’m open to collaboration on **ML projects**, **open-source contributions**.
 - 🌱 I’m currently learning **HuggingFace**, and **Transformers**.
 
