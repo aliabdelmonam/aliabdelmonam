@@ -6,7 +6,7 @@ I'm a **AI Engineer** with a passion for building intelligent systems, data scie
 
 - 🔭 I’m currently working on projects related to **NLP**, **data science**, and **AI**.
 - 🤝 I’m open to collaboration on **ML projects**, **open-source contributions**.
-- 🌱 I’m currently learning **HuggingFace**, and **Transformers**.
+- 🌱 I’m currently learning **HuggingFace**, and **RAG**.
 
 ### 📫 How to reach me:
 <!-- - **Email**: [aliabdelmonam37@gmail.com](mailto:aliabdelmonam37@gmail.com)
